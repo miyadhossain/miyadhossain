@@ -9,7 +9,7 @@
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
 
-<p>I really enjoy and more interested in programming & web development. Currenty, I've already built 8 plus projects with React, Node, and MongoDB. I always try to explore new technology to build some projects. And I like to write content writing. I've already written some blogs on Medium.com.</p>
+<p style="font-weight: bold;">I really enjoy and more interested in programming & web development. Currenty, I've already built 8 plus projects with React, Node, and MongoDB. I always try to explore new technology to build some projects. And I like to write content writing. I've already written some blogs on Medium.com.</p>
 
 - 👯 I’m looking for Web Development Job
 
