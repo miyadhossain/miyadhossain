@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/dxvzhnyuo/image/upload/v1624086042/4884785_t9mw5r.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Miyad</h1>
 <h3 align="center">I'm a passionate Web Developer</h3>
@@ -7,7 +7,9 @@
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+<!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
+
+<p>I really enjoy and more interested in programming & web development. Currenty, I've already built 8 plus projects with React, Node, and MongoDB. I always try to explore new technology to build some projects. And I like to write content writing. I've already written some blogs on Medium.com.</p>
 
 - 👯 I’m looking for Web Development Job
 
