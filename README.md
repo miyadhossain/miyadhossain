@@ -9,7 +9,7 @@
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
 
-<p style="font-weight: bold;">I really enjoy and more interested in programming & web development. Currenty, I've already built 8 plus projects with React, Node, and MongoDB. I always try to explore new technology to build some projects. And I like to write content writing. I've already written some blogs on Medium.com.</p>
+<p style="font-weight: bold;">As a web developer and learner, I always love the opportunity of learning and adopting new technologies and skills. I'm a passionate Web Developer with experience in modern web technologies. Detailed-oriented, responsible, and committed developer, with a get-it-done, on-time, and high-quality product spirit, and more than a decade of experience defining requirements, designing, implementing, testing, and delivering web applications using a variety of technologies.</p>
 
 - 👯 I’m looking for Web Development Job
 
@@ -38,7 +38,7 @@
 
 </p>
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 <br/>
 
 <p align="center">
