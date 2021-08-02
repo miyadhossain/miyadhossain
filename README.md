@@ -23,16 +23,13 @@
    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
      <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-     <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>  
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>   
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 
