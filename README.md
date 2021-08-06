@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
-<!-- <img src="https://img.icons8.com/color/48/000000/redux.png"/> -->
+<img src="https://img.icons8.com/color/48/000000/redux.png"/>
 
 </p>
 
