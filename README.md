@@ -13,8 +13,6 @@
 
 - 👯 I’m looking for Web Development Job
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://miyad-hossain.web.app/)**
-
 - 📫 How to reach me **miyad.mh@gmail.com**
 
 ## 🚀 Languages and Tools:
@@ -55,14 +53,6 @@
 <!-- <a href="https://github.com/miyadhossain/github-readme-activity-graph"><img alt="Miyad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=miyadhossain&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/miyadhossain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-</p>
 
 <!-- ## ❤ Views and Followers
 
